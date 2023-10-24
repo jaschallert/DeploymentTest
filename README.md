@@ -1,2 +1,2 @@
-# DO
-Digital Ocean Test
+# Deployment Test
+Testing application deployment via digital ocean
